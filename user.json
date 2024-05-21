@@ -1,0 +1,17 @@
+{
+    "user":[
+        {"name": "ASD", "email":"asd@gmail.com"},
+        {"name": "QWE", "email":"qwe@gmail.com"},
+        {"name": "ZXC", "email":"zxc@gmail.com"}
+
+    ],
+    "colors":[
+        {"bg": "#000", "text":"#fff"},
+        {"bg": "#fff", "text":"#000"},
+        {"bg": "#000", "text":"#fff"}
+    ],
+    "shadow": [
+        {}
+    ]
+
+}
